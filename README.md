@@ -15,7 +15,7 @@
 
 ## 💬 About Me
 
-I'm a web developer.  Learning and implementing new technologies to solve complex problems is the best part of my work, let me know how I can help solve yours!  
+I'm a software engineer.  Learning and implementing new technologies to solve complex problems is the best part of my work, let me know how I can help solve yours!  
 
 ## 📫 Get in touch!
 
