@@ -7,7 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnguyencodes&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 😄 I’m learning Vue.js, Scss, and WordPress
-- ✨ My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
+- 💻 I’m learning Vue.js, Scss, and WordPress
+- 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
+- 🛠 I use Bootstrap, npm, Babel, Webpack, Git, GitHub, and Slack
 - 🔭 I’m volunteering my time to redesign a UCI student organization's website 
 - 🌱 After a full day of coding, I pamper my houseplants, cacti and succulents
