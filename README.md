@@ -13,7 +13,7 @@
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
 - 🍃 After a full day of coding, I pamper my houseplants, cacti and succulents
 
-## 💬 About Me
+## 💬 About me
 
 I'm a software engineer.  Learning and implementing new technologies to solve complex problems is the best part of my work, let me know how I can help solve yours!  
 
