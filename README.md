@@ -12,3 +12,7 @@
 - 🛠 I use Bootstrap, npm, Babel, Webpack, Git, GitHub, and Slack
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
 - 🍃 After a full day of coding, I pamper my houseplants, cacti and succulents
+
+## 💬 About Me
+
+Environmental Justice Youth Organizer -> After School Teacher -> Office Manager -> Operations Director -> Associate Front End Designer -> Software Engineer
