@@ -19,5 +19,5 @@ I'm a web developer.  Learning and implementing new technologies to solve comple
 
 ## 📫 Get in touch!
 
-[Portfolio](https://johnnguyencodes.com)
-[LinkedIn](https://linkedin.com/in/johnnguyencodes)
+- [Portfolio](https://johnnguyencodes.com)
+- [LinkedIn](https://linkedin.com/in/johnnguyencodes)
