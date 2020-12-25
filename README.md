@@ -15,4 +15,9 @@
 
 ## 💬 About Me
 
-Environmental Justice Youth Organizer -> After School Teacher -> Office Manager -> Operations Director -> Associate Front End Designer -> Software Engineer
+I'm a web developer.  Learning and implementing new technologies to solve complex problems is the best part of my work, let me know how I can help solve yours!  
+
+## 📫 Get in touch!
+
+[Portfolio](https://johnnguyencodes.com)
+[LinkedIn](https://linkedin.com/in/johnnguyencodes)
