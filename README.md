@@ -19,5 +19,4 @@ I'm John.  I'm a software engineer and a proud graduate of LearningFuze's full i
 - Portfolio: [https://johnnguyencodes.com](https://johnnguyencodes.com)
 - LinkedIn: [https://linkedin.com/in/johnnguyencodes](https://linkedin.com/in/johnnguyencodes)
 
-## 👇 Check out my apps below :)
-<br/>
+# 👇 Check out my apps below :)
