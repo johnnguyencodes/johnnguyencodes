@@ -16,5 +16,5 @@ I'm a software engineer.  Learning and implementing new technologies to solve pr
 
 ## 📫 Get in touch!
 
-- [Portfolio](https://johnnguyencodes.com)
-- [LinkedIn](https://linkedin.com/in/johnnguyencodes)
+- Portfolio: [https://johnnguyencodes.com](https://johnnguyencodes.com)
+- LinkedIn: [https://linkedin.com/in/johnnguyencodes](https://linkedin.com/in/johnnguyencodes)
