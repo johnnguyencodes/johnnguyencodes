@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/61361957/103114634-42dcf800-4614-11eb-98da-67519ed46361.jpg" width="1200" alt="hero" />
-
 ### Hi there! 👋
+
+<img src="https://user-images.githubusercontent.com/61361957/103114634-42dcf800-4614-11eb-98da-67519ed46361.jpg" width="1200" alt="hero" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnguyencodes&count_private=true&show_icons=true&theme=vue&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnguyencodes&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
