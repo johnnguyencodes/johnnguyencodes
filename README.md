@@ -10,7 +10,7 @@ I'm John.  I'm a software engineer and a proud graduate of LearningFuze's full i
 
 - 💻 I’m learning Vue.js, and looking into WordPress
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-- 🛠 I use Bootstrap, npm, Babel, Webpack, and Slack
+- 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
 - 🍃 After a full day of coding, I pamper my houseplants
 
