@@ -8,7 +8,7 @@
 
 I'm John.  I'm a software engineer and a proud graduate of LearningFuze's full immersion coding program.  I previously worked as an Associate Front End Designer to build online custom options catalogs for new homes, and I helped sell over 3000 newly built customized homes throughout the country.  Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
-- 💻 I’m learning Vue.js, and looking into WordPress
+- 💻 I’m learning Vue.js
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
 - 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
