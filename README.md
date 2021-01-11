@@ -8,7 +8,7 @@
 
 I'm John.  I'm a software engineer and a proud graduate of LearningFuze's full immersion coding program.  I previously worked as an Associate Front End Designer to build online custom options catalogs for new homes, and I helped sell over 3000 newly built customized homes throughout the country.  
 
-Environmental Justice Organizer > After School Teacher > Medical Office Manager > Retail Inventory Manager  > Associate Front End Designer > Software Engineer.  My diverse experiences has given me the right soft skills to compliment my technical skills.  
+Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Manager ➺ Retail Inventory Manager ➺ Associate Front End Designer ➺ Software Engineer.  My diverse experiences has given me the right soft skills to compliment my technical skills.  
 
 Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
