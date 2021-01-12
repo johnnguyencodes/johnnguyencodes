@@ -12,9 +12,9 @@ Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Mana
 
 Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
-- 💻 I’m learning Vue.js
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
 - 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
+- 💻 I’m learning Vue.js and unit testing
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
 - 🍃 After a full day of coding, I pamper my houseplants
 
