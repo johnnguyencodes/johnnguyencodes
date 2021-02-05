@@ -14,7 +14,7 @@ Learning and implementing new technologies to solve problems is the best part of
 
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
 - 🛠 I use Bootstrap, npm, Babel, Webpack, Slack, and Photoshop
-- 💻 I’m learning about Liquid and Shopify
+- 💻 I’m learning about Shopify & Liquid and Python
 - 👐 I'm volunteering my time to redesign a UCI student organization's website 
 - 🍃 After a full day of coding, I pamper my houseplants
 
