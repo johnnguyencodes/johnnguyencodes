@@ -13,8 +13,8 @@ Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Mana
 Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
 - 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-- 💻 I’m learning Shopify, Liquid, .NET, and C#
-- 👐 I'm volunteering my time to redesign a UCI student organization's website 
+- 💻 I’m learning Shopify & Liquid, C# & .NET
+- 👐 I'm volunteering my time as the project manager to redesign a student organization's website at UC Irvine
 - 🍃 After a full day of coding, I pamper my houseplants
 
 ### 📫 Get in touch!
