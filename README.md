@@ -6,16 +6,15 @@
 
 ### 💬 About me
 
-I'm John.  I'm a web developer and a proud graduate of LearningFuze's full immersion coding program.  I previously worked as an Associate Front End Designer to build online custom options catalogs for new homes, and I helped sell over 3000 newly built customized homes throughout the country.  
+I'm John.  I'm a Jr. Front-End Web Developer at Zymo Research Corp. and a proud graduate of LearningFuze's full immersion coding program.   
 
-Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Manager ➺ Retail Inventory Manager ➺ Associate Front End Designer ➺ Software Engineer.  My diverse experiences has given me the right soft skills to compliment my technical skills.  
+Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Manager ➺ Retail Inventory Manager ➺ Associate Front End Designer ➺ Web Developer.  My diverse experiences has given me the right soft skills to compliment my technical skills.  
 
 Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
-- 📚 My tech stack is React.js, JavaScript, CSS3, HTML5, Node.js, Express, and PostgreSQL
-- 💻 I’m learning Shopify & Liquid, C# & .NET
-- 👐 I'm volunteering my time as the project manager to redesign a student organization's website at UC Irvine
-- 🍃 After a full day of coding, I pamper my houseplants
+- 📚 My tech stack is HTML, CSS, JavaScript and Liquid
+- 💻 I’m learning .net
+- 🍃 After a full day of coding, you can find me trailrunning and working out!  
 
 ### 📫 Get in touch!
 
