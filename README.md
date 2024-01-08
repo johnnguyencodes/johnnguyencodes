@@ -18,7 +18,7 @@ Learning and implementing new technologies to solve problems is the best part of
 
 ### 📫 Get in touch!
 
-- Portfolio: [https://johnnguyencodes.com](https://johnnguyencodes.com)
+- Portfolio: In development
 - LinkedIn: [https://linkedin.com/in/johnnguyencodes](https://linkedin.com/in/johnnguyencodes)
 
 ### 👇 Check out my apps below 👇
