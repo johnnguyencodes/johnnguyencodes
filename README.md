@@ -9,7 +9,6 @@ Environmental Justice Organizer ➺ After School Teacher ➺ Medical Office Mana
 Learning and implementing new technologies to solve problems is the best part of my work, let me know how I can help solve yours!  
 
 - 📚  My tech stack is JavaScript, Shopify Liquid, React, Node, Bootstrap with HTML and CSS.  
-- 💻  I’m learning .NET
 - 🍃  After a full day of coding, you can find me trailrunning and working out!  
 
 ### 📫 Get in touch!
